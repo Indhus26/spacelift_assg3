@@ -4,7 +4,7 @@ variable "aws_region" {
 
   type        = string
 
-  default     = "us-east-1"
+  default     = "ap-south-1"
 
 }
 
@@ -54,7 +54,7 @@ variable "availability_zone" {
 
   type        = string
 
-  default     = "us-east-1"
+  default     = "ap-south-1a"
 
 }
 
@@ -94,7 +94,7 @@ variable "bucket_tag_name" {
 
   type        = string
 
-  default     = "138160-NewBucket"
+  default     = "138252-NewBucket"
 
 }
 
